@@ -1,0 +1,14 @@
+.container {
+  margin: 20px;
+  padding: 20px;
+  width: 90%;
+}
+
+.tab-actions {
+  float: right;
+  margin-bottom: 10px;
+}
+
+.progress-bar {
+  margin-bottom: 15px;
+}
